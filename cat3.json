@@ -1,0 +1,20 @@
+{
+ 
+  "products": [
+        {
+      "id":5,
+      "catId":3,
+      "name":"Fresons (capsa 1kg)",
+      "price":3.50,
+      "stock": 20
+    }
+    ,
+    {
+      "id":6,
+      "catId":3,
+      "name":"Taronjes malla 3 Kg",
+      "price":2.75,
+      "stock": 2
+    }
+    ]
+}

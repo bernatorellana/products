@@ -1,0 +1,26 @@
+{
+ 
+  "products": [
+    {
+      "id":10,
+      "catId":2,
+      "name":"Carbassa 2kg",
+      "price":5.60,
+      "stock": 2
+    },
+    {
+      "id":11,
+      "catId":2,
+      "name":"Meló Bollo 4kg",
+      "price":9.12,
+      "stock": 6
+    },
+    {
+      "id":12,
+      "catId":2,
+      "name":"Bledes bossa 0.5kg",
+      "price":2.61,
+      "stock": 3
+    }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+ 
+  "products": [
+{
+      "id":7,
+      "catId":1,
+      "name":"Bistec vedella 1a safata 500g",
+      "price":12.21,
+      "stock": 3
+    }
+    ,
+    {
+      "id":8,
+      "catId":1,
+      "name":"Nuggets pollastre safata 500g",
+      "price":3.88,
+      "stock": 0
+    }
+    ,
+    {
+      "id":9,
+      "catId":1,
+      "name":"Costelles de xai safata 500g",
+      "price":8.41,
+      "stock": 8
+    }
+    ]
+}
