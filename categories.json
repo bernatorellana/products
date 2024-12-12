@@ -1,0 +1,24 @@
+﻿{
+  "categories":[
+      {
+        "id":0,
+        "name":"begudes",
+        "imageURL":"https://raw.githubusercontent.com/bernatorellana/products/refs/heads/main/begudes.png"
+      },
+      {
+        "id":1,
+        "name":"carn",
+        "imageURL":"https://raw.githubusercontent.com/bernatorellana/products/refs/heads/main/carn.png"
+      },
+      {
+        "id":2,
+        "name":"verdura",
+        "imageURL":"https://raw.githubusercontent.com/bernatorellana/products/refs/heads/main/verdura.png"
+      },
+      {
+        "id":3,
+        "name":"fruita",
+        "imageURL":"https://raw.githubusercontent.com/bernatorellana/products/refs/heads/main/fruita.png"
+      }
+    ]
+}
